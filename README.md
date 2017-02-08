@@ -1,2 +1,2 @@
 # johncooper.github.io
-Initial repository for learning, experimenting
+My base GitHub website
