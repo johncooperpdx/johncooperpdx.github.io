@@ -1,7 +1,5 @@
-```yml
 theme: jekyll-theme-slate
 title: John Cooper (Portland) home website
 description: In this early stage it is primarily for experimentation and code development
 show_downloads: true
 google_analytics:
-```
