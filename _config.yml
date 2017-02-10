@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Website of John Cooper (Portland OR)
+description: For programming development and experiments
+show_downloads: true
+google_analytics:
